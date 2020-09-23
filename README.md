@@ -10,5 +10,9 @@ This is a simple Alfred workflow that makes it easy to initiate WhatsApp message
 * Set your platform to `web` if you use the WhatsApp web client
 
 # Usage
-Activate Alfred and type in `wa`, followed by `<space>`. Type or paste in a number. Whitespaces are fine.
+* Activate Alfred and type in `wa`, followed by `<space>`. Type or paste in a number. Whitespaces are fine.
+* I plan to add the ability to search for contacts in the future
 
+# Changelog
+## [0.1] 2020-09-23
+* Initial commit
