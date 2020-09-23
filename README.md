@@ -2,7 +2,7 @@
 This is a simple Alfred workflow that makes it easy to initiate WhatsApp messages from Alfred.
 
 # Installation
-1. Download and unzip (this file)[https://github.com/gshewakr/alfred-whatsapp-toolkit/blob/master/alfred-whatsapp-toolkit.zip]
+1. Download and unzip [this file](https://github.com/gshewakr/alfred-whatsapp-toolkit/blob/master/alfred-whatsapp-toolkit.zip)
 2. Double-click `alfred-whatsapp-toolkit.alfredworkflow` to install it.
 
 # Config
