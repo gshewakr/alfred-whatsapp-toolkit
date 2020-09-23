@@ -16,3 +16,8 @@ This is a simple Alfred workflow that makes it easy to initiate WhatsApp message
 # Changelog
 ## [0.1] 2020-09-23
 * Initial commit
+
+# About
+* This workflow is licensed under [GNU GPL v3](https://github.com/gshewakr/alfred-whatsapp-toolkit/blob/master/LICENSE).
+* You can file bugs and submit feature requests [here](https://github.com/gshewakr/alfred-whatsapp-toolkit/issues)
+* You can learn more about me here: [https://gautam.sh]
