@@ -14,6 +14,9 @@ This is a simple Alfred workflow that makes it easy to initiate WhatsApp message
 * I plan to add the ability to search for contacts in the future
 
 # Changelog
+## [0.2] 2020-11-28
+* Added regex to remove non-numeric chars from the input
+
 ## [0.1] 2020-09-23
 * Initial commit
 
